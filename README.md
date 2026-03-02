@@ -12,6 +12,7 @@ The pipeline has three sequential phases:
 ## News and Updates
 ---
 - [Coming Soon] An RPG-based plugin for Claude Code is under active development and will be open-sourced once ready.
+- [2026-03-02] 🔥 We have officially open-sourced the **EpiCoder Feature Tree** (features and frequencies) at [Hugging Face](https://huggingface.co/datasets/microsoft/EpiCoder-meta-features). This provides the structured knowledge base needed to enable full repository planning capabilities in **ZeroRepo**.
 - [2026-02-27] 🔥 We have released code of the [RPG-Encoder](zerorepo/rpg_encoder/) for repository understanding and reconstruction and [RepoCraft](repocraft/) for end-to-end repository generation evaluation.
 - [2026-02-12] 🔥 We have open-sourced the ZeroRepo codebase. RPG-Encoder is currently going through the open-source release process and will be released once the process is complete.
 - [2026.02.02] 🔥 Our paper "[Closing the Loop: Universal Repository Representation with RPG-Encoder](https://arxiv.org/abs/2602.02084)" has been released on arXiv.
